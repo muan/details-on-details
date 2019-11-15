@@ -5,7 +5,6 @@ These are notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/
 ## Spec
 
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element)
-- [HTML 5.1](https://www.w3.org/TR/html51/interactive-elements.html#the-details-element)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 
 ## Pratical things
@@ -17,8 +16,8 @@ These are notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/
 
 ## Things that are nice to know
 
-- [**Edge** `<details>` feature tracking](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6261266-details-summary-elements?page=2&per_page=20) (please :star:) 
-- [**Safari** bug with `<details>` when used with `rem`](https://bugs.webkit.org/show_bug.cgi?id=173876) (please subscribe and bug them) 
+- **Edge** does not support `<details>` (coming soon in Chromium Edge) 
+- ~~[**Safari** bug with `<details>` when used with `rem`](https://bugs.webkit.org/show_bug.cgi?id=173876)~~ (fixed) 
 - ~~[**Chrome** bug where `<summary>` triangle marker color doesn't update as CSS is applied](https://bugs.chromium.org/p/chromium/issues/detail?id=882462)~~ (fixed) 
 - [How to style/reset `<summary>` cross browsers?](https://github.com/whatwg/html/issues/722)
 - [Should interactive elements inside of `<summary>` be banned?](https://github.com/whatwg/html/issues/2272)

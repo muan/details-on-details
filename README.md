@@ -11,8 +11,8 @@ These are notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/
 
 - [Can I use](http://caniuse.com/#search=details)
 - [Accessible polyfill for Edge/IE – `javan/details-element-polyfill`](https://github.com/javan/details-element-polyfill)
-- [Overlay utility from `primer/primer`](https://github.com/primer/css/blob/master/src/utilities/details.scss)
-- [Reset utility from `primer/primer`](https://github.com/primer/primer/blob/master/src/buttons/button.scss#L205-L213)
+- [Overlay utility from `primer/primer`](https://github.com/primer/css/blob/e3d988a0fde0c9421d51139cecf134996588161a/src/utilities/details.scss#L3-L19)
+- [Reset utility from `primer/primer`](https://github.com/primer/css/blob/e3d988a0fde0c9421d51139cecf134996588161a/src/utilities/details.scss#L21-L28)
 
 ## Things that are nice to know
 

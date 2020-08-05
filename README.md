@@ -1,6 +1,8 @@
 # Details on `<details>`
 
-These are notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/19. I had way more prepared than could fit in [the slides](https://docs.google.com/presentation/d/1hvnPpsJo44BTPfJx28CV95vqk_dt6na1awUbk0kmZYM/edit?usp=sharing), so here's all the details on `<details>`. ❤️ (Previously in [a gist](https://gist.github.com/muan/adf26249c0adf018aea828105a5846eb)).
+These are notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/19. I had way more prepared than could fit in [the slides](https://docs.google.com/presentation/d/1hvnPpsJo44BTPfJx28CV95vqk_dt6na1awUbk0kmZYM/edit?usp=sharing), so here's all the details on `<details>`. I have also recorded this talk in the format of a [podcast](https://anchor.fm/muan/episodes/Details-on-details-ehlu8i/a-a2s4pnu) (w/ [transcript](http://muan.co/2020/08/04/details-on-details/)) if you like those.
+
+This document was previously in [a gist](https://gist.github.com/muan/adf26249c0adf018aea828105a5846eb).
 
 ## Spec
 

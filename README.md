@@ -21,7 +21,7 @@ This document was previously in [a gist](https://gist.github.com/muan/adf26249c0
   - [How to style/reset `<summary>` cross browsers?](https://github.com/whatwg/html/issues/722)
   - [Spec `list-style: disclosure-closed inside`](https://html.spec.whatwg.org/#the-details-and-summary-elements)
   - [Chrome issue tracker](https://bugs.chromium.org/p/chromium/issues/detail?id=590014)
-  - [Firefox issue tracker](https://bugzilla.mozilla.org/show_bug.cgi?id=1221416) (fixed)
+  - ~~[Firefox issue tracker](https://bugzilla.mozilla.org/show_bug.cgi?id=1221416)~~ (implemented)
   - [Safari issue tracker](https://bugs.webkit.org/show_bug.cgi?id=157323)
 
 ## Compatibility issues

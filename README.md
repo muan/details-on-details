@@ -39,7 +39,8 @@ This document was previously in [a gist](https://gist.github.com/muan/adf26249c0
 
 - [Should interactive elements inside of `<summary>` be banned?](https://github.com/whatwg/html/issues/2272)
 - [Shouldn't/Why doesn't `toggle` event bubble?](https://github.com/whatwg/html/issues/1533)
-- [Should we make `<summary>` unselectable?](https://github.com/whatwg/html/issues/3191)
+- [Should `<summary>` be unselectable?](https://github.com/whatwg/html/issues/3191)
 - [How it went from `<legend>` to `<dt/dd>` to `<summary>`](https://www.w3.org/html/wg/tracker/issues/83)
 - [That time `<details>` almost got removed](https://www.w3.org/html/wg/tracker/issues/93)
 - [Why semantic elements and built-in accessibility are important](https://lists.w3.org/Archives/Public/public-html/2010Apr/0049.html)
+- [Seaching inside of `<details>` with `beforematch` event](https://www.chromestatus.com/feature/5400510406328320)

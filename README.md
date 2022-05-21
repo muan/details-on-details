@@ -1,8 +1,6 @@
 # Details on `<details>`
 
-These are notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/19. I had way more prepared than could fit in [the slides](https://docs.google.com/presentation/d/1hvnPpsJo44BTPfJx28CV95vqk_dt6na1awUbk0kmZYM/edit?usp=sharing), so here's all the details on `<details>`.
-
-This document was previously in [a gist](https://gist.github.com/muan/adf26249c0adf018aea828105a5846eb).
+Notes from my talk *Details on `<details>`* at Brooklyn JS on 2018/07/19.
 
 ## Spec
 
